@@ -67,7 +67,8 @@ const lmgeek = {
 <p align="center">
 <a href="https://luismar.in/new"><img src="https://img.shields.io/badge/-luismar.in-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/luis-armando-marin-naveda"><img src="https://img.shields.io/badge/-Luis%20Marin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:camthomp96@gmail.com"><img src="https://img.shields.io/badge/-tsuluismarin@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:tsuluismarin@gmail.com"><img src="https://img.shields.io/badge/-tsuluismarin@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:info@luismar.in"><img src="https://img.shields.io/badge/-info@luismar.in-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **lmgeek/lmgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
