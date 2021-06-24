@@ -63,12 +63,25 @@ const lmgeek = {
   ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
   ![Navicat](https://img.shields.io/badge/-Navicat-333333?style=flat&logo=navicat)
 
+<center>
+ <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=lmgeek&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/lmgeek"/>
+  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmgeek" href="https://github.com/lmgeek"/>
+</center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmgeek&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmgeek)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+<a href="https://github.com/chiraag-kakar/Crack-Buzz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/sharenlearn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=sharenlearn&theme=ayu-mirage&layout=compact" />
+</a>
+</center>
 
 
+---
+
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=lmgeek&layout=compact" alt="saurav-skl" />
 
 ##  🤝🏻 &nbsp;Connect with Me
 
@@ -78,6 +91,5 @@ const lmgeek = {
 <a href="mailto:tsuluismarin@gmail.com"><img src="https://img.shields.io/badge/-tsuluismarin@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:info@luismar.in"><img src="https://img.shields.io/badge/-info@luismar.in-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<!--
-**lmgeek/lmgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
