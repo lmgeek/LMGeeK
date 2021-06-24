@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=lmgeek&color=blue&style=plastic)
+
 ### Hi there 👋
 
 ## I'm Luis Marin.
@@ -60,6 +62,12 @@ const lmgeek = {
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellijidea)
   ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
   ![Navicat](https://img.shields.io/badge/-Navicat-333333?style=flat&logo=navicat)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmgeek&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmgeek)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ##  🤝🏻 &nbsp;Connect with Me
